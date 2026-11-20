@@ -5,8 +5,6 @@ Welcome and README
 
 Welcome! This page explains how the Break Through Tech GitHub organization is set up, who can do what, and where to go for help. Please read it once when you join. It takes about five minutes.
 
-<!-- Draft v0.1. Items marked DECISION NEEDED need input from Melissa Jones and Hari Raghavan. -->
-
 ## Why we use GitHub
 
 Break Through Tech programs, starting with AI Studio, use GitHub so that:
@@ -21,7 +19,7 @@ There are four kinds of people in our organization. Your role decides what you c
 
 | Role | Who | What you can do | Why it's set up this way |
 |---|---|---|---|
-| **Owner** | A small group of BTT staff (Chief Program Officer – Melissa, Director of Experiential Learning – Hari, Director of Instructional Design – Dominic, Principal Program Intelligence – Matt Brems) | Everything: settings, billing, adding people, creating repos | We keep this group small on purpose |
+| **Owner** | A small group of BTT staff: Melissa Jones, Matt Brems, Hari R. | Everything: settings, billing, adding people, creating repos | We keep this group small on purpose |
 | **Member** | BTT staff, contractors, PMs, and Coaches (all with BTT email addresses) | Work in the repos you're given. Coaches can set up project boards and manage their own teams' repos | Coaches need to be members to create GitHub Projects boards for their teams |
 | **Outside collaborator: Challenge Advisor** | Volunteer advisors from partner companies | Review and contribute to the specific repo(s) you're added to | Keeps settings and repo creation in BTT's hands |
 | **Outside collaborator: Fellow** | Program participants | Write code, open pull requests, create issues and branches in your team's repo | Same as above |
@@ -31,7 +29,7 @@ There are four kinds of people in our organization. Your role decides what you c
 ## Public vs. private repositories
 
 - **Project repositories are public.** Anyone on the internet can view them, even without a GitHub account. This allows your work to become a shareable portfolio.
-- **Internal tools and templates are private.** Only the staff who need them can see them.
+- **Internal tools and templates are stored elsewhere.** Only the staff who need them can see them; they are stored in our BTT GitHub Codebase organization. Email it@breakthroughtech.org for more information.  
 
 Because project repos are public, **never put these in any repo:**
 
