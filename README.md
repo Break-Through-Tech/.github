@@ -42,7 +42,7 @@ Because project repos are public, **never put these in any repo:**
 
 ## How project repos are organized
 
-Every AI Studio project repo starts from the same template and includes:
+Every project repo starts from the same template and includes:
 
 - **Challenge Project Overview:** what the project is and what data you'll use (filled in by BTT and the Challenge Advisor)
 - **Getting Started for Fellows:** where to learn about the project, find the data, and document your work
@@ -67,7 +67,7 @@ These are turned on automatically. You don't need to do anything, but it helps t
 
 <!-- DECISION NEEDED: final retention policy. Text below is the proposal. -->
 
-- Fellows keep access to their repo after the program.
+- Fellows keep access to their repo after the program for 12 months.
 - Fellows have **12 months** after the program ends to fork (copy) the repo to their personal GitHub account. Your fork is yours to keep.
 - After 12 months, BTT archives the repo. <!-- DECISION NEEDED: archive (read-only, still public) or make private -->
 - We'll send a reminder before anything changes.
@@ -89,8 +89,11 @@ DECISION NEEDED: add this row to the table above once decided:
 ## Who owns these rules
 
 <!-- DECISION NEEDED: Accountable for GitHub administration: Hari / IT / split -->
-
-- **Program setup (templates, repos, Coach onboarding):** AI Studio program team
+- **Organization governance (settings, README, contribution guidelines, connection request approvals):** BTT IT
+- **Program requirements (whether a Program uses this GitHub org or not, and how)**: BTT Product team (Hari, Dom, Hi’ilei, Melissa F.)
+- **Program run setup (templates, repos, Coach onboarding):** IT team, with Lead  PM
+- **During Program run maintenance**: PMs and Coaches. Fellows help by keeping the Org clean and secure
+- **After Program run clean up**: BTT IT, with Lead PMs
 
 ### Suggesting a change to these rules
 
