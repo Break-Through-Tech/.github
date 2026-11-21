@@ -2,9 +2,8 @@
 
 **Welcome to the Break Through Tech GitHub Organization!**
 
-This guide covers how to work here, how to be a good teammate, and what to do when you need something. For the big picture, see our org [README](/readme.md).
+This guide covers how to work here, how to be a good teammate, and what to do when you need something. For the big picture, see our org [README]([/readme.md](https://github.com/Break-Through-Tech/.github/blob/main/README.md)).
 
-<!-- Draft v0.1. Items marked DECISION NEEDED are still being decided. -->
 
 ## Your access, in plain terms
 
@@ -58,10 +57,10 @@ Connecting a tool to the organization could give it access to other teams' work 
 - What access it asks for (for example, read-only or permission to open pull requests)
 - Why your team needs it
 
-You'll hear back from your coach. <!-- DECISION NEEDED: response time, e.g., within 5 business days -->
+You'll hear back from your coach soon!
 
 > [!WARNING]
-> **Please don't** use GitHub's "Request" button, click "Authorize for Break Through Tech," or choose "All repositories" when connecting a tool. These skip the review, and organization access can't be approved. If a tool asks for any of these, stop and talk to your coach.
+> **Please don't** use GitHub's "Request" button, click "Authorize for Break Through Tech," or choose "All repositories" when connecting a tool. These requests are not monitored and will not be addressed. Speak to your Coach instead.
 
 ### What to expect
 
@@ -83,7 +82,7 @@ These GitHub features are free for public repos. You don't need to request them:
 - **Code scanning (CodeQL):** flags possible security bugs in your pull requests.
 - **Dependabot:** alerts you when a library you use has a known vulnerability, and may open a pull request to update it.
 - **GitHub Actions:** runs automatic checks, like formatting and linting, on your pull requests. Ask your coach if you'd like help setting one up.
--->
+
 
 ### Other tools that are usually approved
 
@@ -94,9 +93,6 @@ These are free for public repos and only need access to your team's repo. Ask yo
 | **ReviewNB** | Readable diffs and comments for Jupyter notebooks | Teams working mainly in notebooks |
 | **pre-commit.ci** | Runs formatting and lint checks on pull requests, and can fix them automatically | Keeping code clean and consistent |
 
-<!-- TODO: confirm current free terms for pre-commit.ci before publishing. -->
-
-<!--
 ON HOLD: Codecov needs GitHub Actions to upload coverage. Add this row back to the end of the table above
 once the org billing issue is resolved (and confirm Codecov's current free terms):
 | **Codecov** | Shows how much of your code is covered by tests | Teams writing tests |
@@ -126,9 +122,7 @@ There are two different situations here:
 
 ### 1. "I want to help another team with their project."
 
-<!-- DECISION NEEDED: confirm this rule -->
-
-- Check with your coach and their coach first.
+- Check with your coach and the other team's coach first.
 - Open a pull request to their repo. Don't push directly.
 - Their team reviews and approves before anything is merged. You never merge into another team's repo yourself.
 - Keep your own team's work as your first priority.
@@ -140,8 +134,6 @@ There are two different situations here:
 - On your résumé, describe it as a personal project based on a Break Through Tech challenge. Don't describe it as work done for the partner company.
 
 ## After the program
-
-<!-- DECISION NEEDED: final retention policy. Text below is the proposal. -->
 
 - You keep access to your team's repo after the program.
 - You have **12 months** to fork the repo to your personal GitHub account. Your fork is yours to keep, and it's a good idea to do this early.
