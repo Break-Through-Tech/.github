@@ -37,6 +37,8 @@ Because project repos are public, **never put these in any repo:**
 - Personal information about anyone (names with contact info, student records, etc.)
 - Any data a Challenge Advisor has marked as confidential
 
+Admins will periodically scan repos for secrets and remove them if discovered.
+
 > [!IMPORTANT]
 > If you accidentally commit something sensitive, tell your Coach right away. Deleting the file is not enough, because it stays in the history. We'll help you clean it up. No one gets in trouble for reporting it quickly.
 
@@ -78,7 +80,7 @@ These are turned on automatically. You don't need to do anything, but it helps t
 |---|---|
 | Help with your project, Git, or your repo | Your Coach |
 | Access to a repo, or to be added/removed | Your Coach |
-| A new tool or app added to your repo | See "Requesting a tool" in the Contributing guide |
+| A new tool or app added to your repo | See "Requesting a tool" in the Contributing guide, then ask your Coach |
 | Something that looks like a security problem | Your Coach, who escalates to the GitHub admin the same day |
 
 <!--
@@ -106,7 +108,7 @@ We want this to work for the people using it. If a rule is getting in your way o
 ## Related guides
 
 - **Contributing guide** (Fellows and Challenge Advisors): how to work in a repo, etiquette, and requesting tools
-- **Coach and member guide** (internal): what Coaches can and can't do with their admin access
+- **Coach guide** (internal): what Coaches can and can't do with their admin access
 
 ## Change log
 
