@@ -1,9 +1,10 @@
-# Contributing Guide for Fellows and Challenge Advisors
+# Contributing Guide for  Members
 
-Welcome to your project repo! This guide covers how to work here, how to be a good teammate, and what to do when you need something. For the big picture, see our Governance page.
+**Welcome to the Break Through Tech GitHub Organization!**
+
+This guide covers how to work here, how to be a good teammate, and what to do when you need something. For the big picture, see our org [README](/readme.md).
 
 <!-- Draft v0.1. Items marked DECISION NEEDED are still being decided. -->
-<!-- TODO: link "Governance page" above once the org profile README is live. -->
 
 ## Your access, in plain terms
 
