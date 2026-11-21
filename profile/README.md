@@ -13,6 +13,11 @@ Break Through Tech programs, starting with AI Studio, use GitHub so that:
 - **Fellows leave the program with a public portfolio** they can show employers and grad schools.
 - **Coaches, Challenge Advisors, and staff can see progress** and help in one place.
 
+## Organization Participation Guidelines
+- **Only Break Through Tech Fellows, Coaches, Challenge Advisors, volunteer mentors, staff members and other folks affiliated with Break Through Tech programs should participate here.** If you're not part of one of our programs, please refrain from participating directly. To join us, [visit our website to learn more](http://breakthroughtech.org).
+- **If you're here, we want to know who you are!** Please set your display name to match the name you use in our programs, and use a recognizable profile photo, not the default GitHub icon.
+- **All material shared in public repos is shared open source via the Apache 2.0 license.** 
+
 ## Who's who
 
 There are four kinds of people in our organization. Your role decides what you can do.
