@@ -3,7 +3,7 @@ Welcome and README
 
 # Welcome to Break Through Tech on GitHub
 
-Welcome! This page explains how the Break Through Tech GitHub organization is set up, who can do what, and where to go for help. Please read it once when you join. It takes about five minutes.
+Welcome! This page explains how the Break Through Tech GitHub organization is set up, who can do what, and where to go for help. Please read it once when you join. It takes about five minutes. Ready to start contributing? Read our [Contributing Guide first](https://github.com/Break-Through-Tech/.github/blob/main/contributing.md).
 
 ## Why we use GitHub
 
@@ -80,17 +80,11 @@ These are turned on automatically. You don't need to do anything, but it helps t
 |---|---|
 | Help with your project, Git, or your repo | Your Coach |
 | Access to a repo, or to be added/removed | Your Coach |
-| A new tool or app added to your repo | See "Requesting a tool" in the Contributing guide, then ask your Coach |
-| Something that looks like a security problem | Your Coach, who escalates to the GitHub admin the same day |
-
-<!--
-DECISION NEEDED: add this row to the table above once decided:
-| A question your Coach can't answer | [GitHub admin contact or Slack channel] |
--->
+| A new tool or app added to your repo | See "Requesting a tool" in the [Contributing guide](https://github.com/Break-Through-Tech/.github/blob/main/contributing.md), then ask your Coach |
+| Something that looks like a security problem | Your Coach, who should escalate to [it@breakthroughtech.org](mailto:it@breakthroughtech.org) the same day |
 
 ## Who owns these rules
 
-<!-- DECISION NEEDED: Accountable for GitHub administration: Hari / IT / split -->
 - **Organization governance (settings, README, contribution guidelines, connection request approvals):** BTT IT
 - **Program requirements (whether a Program uses this GitHub org or not, and how)**: BTT Product team (Hari, Dom, Hi’ilei, Melissa F.)
 - **Program run setup (templates, repos, Coach onboarding):** IT team, with Lead  PM
@@ -101,15 +95,15 @@ DECISION NEEDED: add this row to the table above once decided:
 
 We want this to work for the people using it. If a rule is getting in your way or something is missing:
 
-1. Tell your Coach, or open an issue in the `.github` repository with the label `governance`.
-2. The GitHub admin reviews suggestions. <!-- DECISION NEEDED: review cadence, e.g., monthly during the program -->
+1. Tell your Coach, who can escalate to [it@breakthroughtech.org](it@breakthroughtech.org), or open an issue in the `.github` repository with the label `governance`.
+2. BTT IT reviews suggestions within two weeks.
 3. Changes are noted at the bottom of this page.
 
 ## Related guides
 
-- **Contributing guide** (Fellows and Challenge Advisors): how to work in a repo, etiquette, and requesting tools
-- **Coach guide** (internal): what Coaches can and can't do with their admin access
+- **[Contributing guide](https://github.com/Break-Through-Tech/.github/blob/main/contributing.md)** (Fellows and Challenge Advisors): how to work in a repo, etiquette, and requesting tools
+- **Coach guide**: What Coaches can and can't do with their admin access
 
 ## Change log
 
-- **v0.1 (Sept 2026):** First draft, based on the Sept 14 governance meeting (Melissa, Hari, Christine).
+- **v0.1 (Nov 2026):** First draft, based on the Sept 14 governance meeting (Melissa, Hari, Christine).
